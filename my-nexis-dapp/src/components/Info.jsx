@@ -10,12 +10,12 @@ function Info() {
     <div style={{ display: 'flex',flexDirection:'column', justifyContent: 'center', alignItems: 'center', height: '70vh' }}>
         <div>
       <Heading as='h2' size='xl' style={{ borderBottom: '2px solid #ccc' }}>
-        npx <span style={{ backgroundColor: '#2ef2b1' }}>create-nexis-dapp</span>
+        npx <span style={{ backgroundColor: '#2ef2b1' }}>create-exzo-dapp</span>
       </Heading>
         </div>
 <div style={{margin:'20px',maxWidth:'50%'}}>
 <Text fontSize='lg'>
-            Create a new Nexis blockchain-powered decentralized application with ease. This command-line tool automates the setup process, saving you time and effort in creating the initial project structure.
+            Create a new Exzo blockchain-powered decentralized application with ease. This command-line tool automates the setup process, saving you time and effort in creating the initial project structure.
           </Text>
           <br />
           <Text fontSize='md' fontWeight='600' color='#2ef2b1' backgroundColor='black' maxWidth='fit-content' padding='3px'>Requirements</Text>

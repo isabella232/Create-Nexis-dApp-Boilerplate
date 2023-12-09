@@ -1,8 +1,8 @@
 {
-	"name": "create-exzo-dapp",
+	"name": "create-nexis-dapp",
 	"version": "1.0.0",
 	"keywords": [
-		"create-exzo-dapp",
+		"create-nexis-dapp",
 		"create exzo dapp",
 		"boilerplate"
 	],
@@ -12,7 +12,7 @@
 		"start": "node bin/cli.js"
 	},
 	"bin": {
-		"create-exzo-dapp": "./bin/cli.js"
+		"create-nexis-dapp": "./bin/cli.js"
 	},
 	"type": "module",
 	"dependencies": {
@@ -25,9 +25,9 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/raebeatrose4/create-exzo-dapp.git"
+		"url": "https://github.com/raebeatrose4/create-nexis-dapp.git"
 	},
-	"homepage": "https://github.com/raebeatrose4/create-exzo-dapp/blob/main/README.md",
+	"homepage": "https://github.com/raebeatrose4/create-nexis-dapp/blob/main/README.md",
 	"devDependencies": {
 		"nodemon": "^2.0.20"
 	}

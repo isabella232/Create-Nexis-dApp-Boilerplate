@@ -5,7 +5,7 @@ function Navbar(props) {
   return (
     <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', padding: '10px' }}>
       <div style={{ order: 1 }}>
-        <img src="/Nexis.svg" alt="" className='nexis-logo' />
+        <img src="/exzo.png" alt="" className='exzo-logo' />
       </div>
 
       <div style={{ order: 2 }}>

@@ -61,14 +61,14 @@ function App() {
         method: 'wallet_addEthereumChain',
         params: [{
           chainId: '0x942',
-          chainName: 'Nexis Testnet',
+          chainName: 'Exzo Testnet',
           nativeCurrency: {
-            name: 'Nexis',
-            symbol: 'NZT',
+            name: 'Exzo',
+            symbol: 'XZO',
             decimals: 18,
           },
-          rpcUrls: ['https://evm-test.nexis.network'],
-          blockExplorerUrls: ['https://evm-testnet.nexscan.io/'], 
+          rpcUrls: ['https://evm-test.exzo.network'],
+          blockExplorerUrls: ['https://evm-testnet.exzoscan.io/'], 
         }],
       });
     } catch (error) {
@@ -165,7 +165,7 @@ function App() {
         <div style={{ display: 'flex',flexDirection:'column', justifyContent: 'center', alignItems: 'center', height: '70vh' }}>
         <Heading as='h2' size='xl' style={{ borderBottom: '2px solid #ccc' }}>
           
-        npx <span style={{ backgroundColor: '#2ef2b1' }}>create-nexis-dapp</span>
+        npx <span style={{ backgroundColor: '#2ef2b1' }}>create-exzo-dapp</span>
       </Heading>
       <div style={{margin:'20px',maxWidth:'50%'}}>
       <Text fontSize='lg'>
