@@ -1,5 +1,19 @@
+/**
+ * @file README.md
+ * @description This file provides an overview and usage instructions for the "create-nexis-dapp" project.
+ * 
+ * The "create-nexis-dapp" project is a starter template for building decentralized applications (dApps) on the Nexis Network. It aims to unlock the potential of the network and provide a foundation for developers to create and customize their own dApps.
+ * 
+ * Usage:
+ * - Open your terminal and navigate to the desired folder.
+ * - Run the command "npx create-nexis-dapp" in the terminal.
+ * - Follow the on-screen instructions to enter the project name and select the folder.
+ * - Once completed, your Nexis dapp will be ready for further customization and development.
+ * 
+ * @see [Nexis Network](https://nexis.network/)
+ */
 # create-nexis-dapp
-Unlock the potential of the Exzo Network and take the first step in building your own decentralized application with this simple yet powerful starter template. Imagine the endless possibilities as you create and customize your dApp on top of this foundation.
+Unlock the potential of the Nexis Network and take the first step in building your own decentralized application with this simple yet powerful starter template. Imagine the endless possibilities as you create and customize your dApp on top of this foundation.
 
 # Usage
 
@@ -7,26 +21,11 @@ Type this in your terminal
 
 ``` npx create-nexis-dapp```
 
-this screen will be visible
-
-<img width="569" alt="image" src="https://github.com/Exzo-Network/create-nexis-dapp-Boilerplate/assets/139626898/00cca8fe-ea5e-48c1-8fca-43b5cd7aeece">
-
 
 - Enter name of project
 - Select the folder
-- Your Exzo dapp will be ready
-
-
-<img width="602" alt="image" src="https://github.com/Exzo-Network/create-nexis-dapp-Boilerplate/assets/139626898/2caff406-4143-4fa6-8577-94c90e41197c">
+- Your Nexis dapp will be ready
 
 
 after this follow the on screen instructions
-
-## Screenshots
-- Landing Page
-<img width="960" alt="image" src="https://github.com/Exzo-Network/create-nexis-dapp-Boilerplate/assets/139626898/6cea640c-6214-4934-a7dc-5a0ada2bc8a1">
-
-- dApp screen
-  <img width="960" alt="image" src="https://github.com/Exzo-Network/create-nexis-dapp-Boilerplate/assets/139626898/6543874c-63b9-47db-b072-1eecbf8f8295">
-
 
